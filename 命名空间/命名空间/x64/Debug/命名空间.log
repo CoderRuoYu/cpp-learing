@@ -1,0 +1,3 @@
+﻿  test.cpp
+D:\2023githubcode\cpp-learing\命名空间\命名空间\test.cpp(17,6): error C2374: “N1::a”: 重定义；多次初始化
+D:\2023githubcode\cpp-learing\命名空间\命名空间\test.cpp(7,6): message : 参见“N1::a”的声明

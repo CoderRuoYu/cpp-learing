@@ -1,0 +1,4 @@
+﻿  test.c
+D:\2023githubcode\cpp-learing\test_2023_1_10\test06\test.c(5,31): warning C4090: “return”: 不同的“const”限定符
+D:\2023githubcode\cpp-learing\test_2023_1_10\test06\test.c(18,27): warning C4090: “return”: 不同的“const”限定符
+  test06.vcxproj -> D:\2023githubcode\cpp-learing\test_2023_1_10\x64\Debug\test06.exe

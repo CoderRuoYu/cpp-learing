@@ -1,0 +1,4 @@
+﻿  test.c
+D:\2023githubcode\cpp-learing\test_1_23\test01\test.c(6,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\2023githubcode\cpp-learing\test_1_23\test01\test.c(7,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  test01.vcxproj -> D:\2023githubcode\cpp-learing\test_1_23\x64\Debug\test01.exe

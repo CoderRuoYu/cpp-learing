@@ -1,0 +1,5 @@
+﻿  test.c
+D:\2023githubcode\cpp-learing\test_1_23\test02\test.c(3,10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+D:\2023githubcode\cpp-learing\test_1_23\test02\test.c(8,16): warning C4047: “<=”:“int”与“const char *”的间接级别不同
+D:\2023githubcode\cpp-learing\test_1_23\test02\test.c(7,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  test02.vcxproj -> D:\2023githubcode\cpp-learing\test_1_23\x64\Debug\test02.exe
